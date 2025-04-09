@@ -1,5 +1,6 @@
 repos:
 -   repo: https://github.com/jlariza/ai-review-pre-commit
+    rev: 0.0.1
     hooks:
-    -   id: main
+    -   id: ai-review
 
